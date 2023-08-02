@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
+using System.Numerics;
 
-namespace GlobalPhone
+namespace GlobalPhoneDotnet
 {
   static class Program
   {

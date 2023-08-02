@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalPhone", "GlobalPhone\GlobalPhone.csproj", "{D50EE24A-F730-440A-827A-9EB24F488D80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalPhoneDotnet", "GlobalPhoneDotnet\GlobalPhoneDotnet.csproj", "{22F93281-906D-46EF-9711-611CE8737383}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D50EE24A-F730-440A-827A-9EB24F488D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D50EE24A-F730-440A-827A-9EB24F488D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D50EE24A-F730-440A-827A-9EB24F488D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D50EE24A-F730-440A-827A-9EB24F488D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F93281-906D-46EF-9711-611CE8737383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F93281-906D-46EF-9711-611CE8737383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F93281-906D-46EF-9711-611CE8737383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F93281-906D-46EF-9711-611CE8737383}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
