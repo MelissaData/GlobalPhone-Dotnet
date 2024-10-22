@@ -47,8 +47,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Download this project
 ```
-$ git clone https://github.com/MelissaData/GlobalPhone-Dotnet
-$ cd GlobalPhone-Dotnet
+git clone https://github.com/MelissaData/GlobalPhone-Dotnet
+cd GlobalPhone-Dotnet
 ```
 
 ## Windows
@@ -90,15 +90,15 @@ There are two modes:
 
 	The script will prompt the user for input(s), then use the provided input(s) to call the Cloud API. For example:
 	```
-	$ .\GlobalPhoneDotnet.ps1
+	.\GlobalPhoneDotnet.ps1
 	```
 
 - Command Line 
 
 	You can pass a phone number and license string into `-phone` and `-license` parameters respectively to test the Cloud API. For example: 
 	```
-    $ .\GlobalPhoneDotnet.ps1 -phone "800-635-4772" 
-    $ .\GlobalPhoneDotnet.ps1 -phone "800-635-4772" -license "<your_license_string>"
+    .\GlobalPhoneDotnet.ps1 -phone "800-635-4772" 
+    .\GlobalPhoneDotnet.ps1 -phone "800-635-4772" -license "<your_license_string>"
     ```
 	
 This is the expected output from a successful setup for interactive mode:
@@ -149,15 +149,15 @@ There are two modes:
 
 	The script will prompt the user for input(s), then use the provided input(s) to call the Cloud API. For example:
 	```
-	$ ./GlobalPhoneDotnet.sh
+	./GlobalPhoneDotnet.sh
 	```
 
 - Command Line 
 
 	You can pass a phone number and license string into `--phone` and `--license` parameters respectively to test the Cloud API. For example: 
 	```
-    $ ./GlobalPhoneDotnet.sh --phone "800-635-4772" 
-    $ ./GlobalPhoneDotnet.sh --phone "800-635-4772" --license "<your_license_string>"
+    ./GlobalPhoneDotnet.sh --phone "800-635-4772" 
+    ./GlobalPhoneDotnet.sh --phone "800-635-4772" --license "<your_license_string>"
     ```
 
 This is the expected output from a successful setup for interactive mode:
